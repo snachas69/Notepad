@@ -1,0 +1,32 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DocX/2.2.0": {
+        "runtime": {
+          "lib/net40/Xceed.Document.NET.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          },
+          "lib/net40/Xceed.Words.NET.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DocX/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fAhCroEpafJP++GM/cwIH8OrOeztI5iDXZU+BAGKLU16ps7bB1/C6a/cBfR6RWc+7lHTJj/IBjZ3/YnKkZbw1g==",
+      "path": "docx/2.2.0",
+      "hashPath": "docx.2.2.0.nupkg.sha512"
+    }
+  }
+}

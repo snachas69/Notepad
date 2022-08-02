@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AboutCurrentTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AboutTheTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyTabPage - Copy.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NotePad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prompt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
